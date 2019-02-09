@@ -1,5 +1,5 @@
 # makeCacheMatrix creates a function to initialize a matrix
-# gets the value and solve for the inverse
+# gets the value and solves for the inverse
 makeCacheMatrix <- function(x = matrix()) {
   mat <- NULL
   set <- function(y) {
